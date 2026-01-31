@@ -5,7 +5,7 @@
   <h3>Computer Engineering Student | Developer | Creator</h3>
   
   <p>Based in <b>Turkey 🇹🇷</b></p>
-
+  
   <p>
     I’m a passionate Computer Engineering student exploring the world of software development. <br>
     I love building modern applications, solving complex problems, and designing sleek user interfaces.
@@ -39,44 +39,30 @@
 
 <hr>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=latryee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latryee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 ### 🏆 Highlights
 
+<!-- Custom Project Table (Works even if API fails) -->
 <div align="center">
-  <img src="static/logo.png" alt="UniConvert Logo" width="120" height="120">
-  
-  # UniConvert
-  
-  **The Modern, Universal File Converter for your Desktop.**
-  
-  [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-  [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/latryee/uni-converter)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-  <p>
-    <a href="#-features">Features</a> •
-    <a href="#-installation">Installation</a> •
-    <a href="#-usage">Usage</a>
-  </p>
+<table border="0" width="100%">
+  <tr>
+    <td width="100%">
+      <h3 align="center">📂 UniConvert</h3>
+      <p align="center">
+        <i>A comprehensive Desktop File Converter built with Python & Flask.</i>
+      </p>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
+         <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+         <img src="https://img.shields.io/badge/PyWebView-Desktop-red?style=flat-square" />
+         <br><br>
+         <a href="https://github.com/latryee/uni-converter">
+            <img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge" />
+         </a>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
-
----
 
 <br>
 <hr>
