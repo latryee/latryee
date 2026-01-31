@@ -11,7 +11,6 @@
     I love building modern applications, solving complex problems, and designing sleek user interfaces.
   </p>
 
-  <!-- Socials -->
   <p>
     <a href="https://github.com/latryee">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,44 +40,34 @@
 
 ### 🏆 Highlights
 
-<!-- Custom Project Table -->
 <div align="center">
 <table border="0" width="100%">
-  <tr>
-    <!-- Project 1: Orbit -->
-    <td width="50%" align="center" valign="top">
-      <h3>🪐 Orbit</h3>
-      <p>
-        <i>The Ultimate Universal Media Downloader (4K / Audio) for Windows.</i>
-      </p>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
-         <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
-         <img src="https://img.shields.io/badge/yt--dlp-Engine-red?style=flat-square&logo=youtube" />
-         <br><br>
-         <a href="https://github.com/latryee/orbit">
-            <img src="https://img.shields.io/badge/View_Project-Click_Here-6366f1?style=for-the-badge&logo=github" />
-         </a>
-      </div>
-    </td>
-
-    
-    <td width="50%" align="center" valign="top">
-      <h3>📂 UniConvert</h3>
-      <p>
-        <i>A comprehensive Desktop File Converter built with Python & Flask.</i>
-      </p>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
-         <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
-         <img src="https://img.shields.io/badge/PyWebView-Desktop-red?style=flat-square" />
-         <br><br>
-         <a href="https://github.com/latryee/uni-converter">
-            <img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge&logo=github" />
-         </a>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>🪐 Orbit</h3>
+<p><i>The Ultimate Universal Media Downloader (4K / Audio).</i></p>
+<br>
+<img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/yt--dlp-Engine-red?style=flat-square&logo=youtube" />
+<br><br>
+<a href="https://github.com/latryee/orbit">
+<img src="https://img.shields.io/badge/View_Project-Click_Here-6366f1?style=for-the-badge&logo=github" />
+</a>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>📂 UniConvert</h3>
+<p><i>A comprehensive Desktop File Converter built with Python & Flask.</i></p>
+<br>
+<img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/PyWebView-Desktop-red?style=flat-square" />
+<br><br>
+<a href="https://github.com/latryee/uni-converter">
+<img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge&logo=github" />
+</a>
+</td>
+</tr>
 </table>
 </div>
 
