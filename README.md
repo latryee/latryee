@@ -41,39 +41,31 @@
 
 ### 🏆 Highlights
 
-# 🪐 Orbit - Universal Media Downloader
-
-<div align="center">
-  <img src="static/img/logo.png" width="150" alt="Orbit Logo" style="border-radius: 20px; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);">
-  <br><br>
-  <h1>Orbit</h1>
-  <p><b>The Ultimate Media Downloader for Windows</b></p>
-  <p>
-    A powerful, modern desktop application to download <b>4K Videos</b> and <b>High-Quality Audio</b> from YouTube, Instagram, TikTok, X (Twitter), and thousands of other sites.
-  </p>
-  
-  <p>
-    <a href="#-installation">
-      <img src="https://img.shields.io/badge/Download-Orbit_v1.0-6366f1?style=for-the-badge&logo=windows&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
-    <img src="https://img.shields.io/badge/Engine-yt--dlp-red?style=flat-square&logo=youtube" />
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-  </p>
-</div>
-
-
-<!-- Custom Project Table (Works even if API fails) -->
+<!-- Custom Project Table -->
 <div align="center">
 <table border="0" width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="center">📂 UniConvert</h3>
-      <p align="center">
+    <!-- Project 1: Orbit -->
+    <td width="50%" align="center" valign="top">
+      <h3>🪐 Orbit</h3>
+      <p>
+        <i>The Ultimate Universal Media Downloader (4K / Audio) for Windows.</i>
+      </p>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
+         <img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+         <img src="https://img.shields.io/badge/yt--dlp-Engine-red?style=flat-square&logo=youtube" />
+         <br><br>
+         <a href="https://github.com/latryee/orbit">
+            <img src="https://img.shields.io/badge/View_Project-Click_Here-6366f1?style=for-the-badge&logo=github" />
+         </a>
+      </div>
+    </td>
+
+    
+    <td width="50%" align="center" valign="top">
+      <h3>📂 UniConvert</h3>
+      <p>
         <i>A comprehensive Desktop File Converter built with Python & Flask.</i>
       </p>
       <div align="center">
@@ -82,7 +74,7 @@
          <img src="https://img.shields.io/badge/PyWebView-Desktop-red?style=flat-square" />
          <br><br>
          <a href="https://github.com/latryee/uni-converter">
-            <img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge&logo=github" />
          </a>
       </div>
     </td>
