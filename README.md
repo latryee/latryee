@@ -59,16 +59,24 @@
 ### 🏆 Highlights
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/latryee/uni-converter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=latryee&repo=uni-converter&theme=tokyonight&hide_border=true" alt="UniConverter" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="static/logo.png" alt="UniConvert Logo" width="120" height="120">
+  
+  # UniConvert
+  
+  **The Modern, Universal File Converter for your Desktop.**
+  
+  [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+  [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/latryee/uni-converter)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+  <p>
+    <a href="#-features">Features</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-usage">Usage</a>
+  </p>
 </div>
+
+---
 
 <br>
 <hr>
