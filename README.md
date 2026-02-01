@@ -7,7 +7,7 @@
   <p>Based in <b>Turkey 🇹🇷</b></p>
   
   <p>
-    I’m a passionate Computer Engineering student exploring the world of software development. <br>
+    I'm a passionate Computer Engineering student exploring the world of software development. <br>
     I love building modern applications, solving complex problems, and designing sleek user interfaces.
   </p>
 
@@ -43,7 +43,7 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <h3>🪐 Orbit</h3>
 <p><i>The Ultimate Universal Media Downloader (4K / Audio).</i></p>
 <br>
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/View_Project-Click_Here-6366f1?style=for-the-badge&logo=github" />
 </a>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <h3>📂 UniConvert</h3>
 <p><i>A comprehensive Desktop File Converter built with Python & Flask.</i></p>
 <br>
@@ -65,6 +65,18 @@
 <br><br>
 <a href="https://github.com/latryee/uni-converter">
 <img src="https://img.shields.io/badge/View_Project-Click_Here-success?style=for-the-badge&logo=github" />
+</a>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>♟️ Chess Vision AI</h3>
+<p><i>Local Chess Analysis Engine powered by Stockfish with real-time evaluation.</i></p>
+<br>
+<img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/Stockfish-Engine-green?style=flat-square" />
+<br><br>
+<a href="https://github.com/latryee/chessvision">
+<img src="https://img.shields.io/badge/View_Project-Click_Here-blueviolet?style=for-the-badge&logo=github" />
 </a>
 </td>
 </tr>
