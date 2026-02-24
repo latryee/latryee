@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br><br>
@@ -68,14 +69,14 @@
 </a>
 </td>
 <td width="33%" align="center" valign="top">
-<h3>♟️ Chess Vision AI</h3>
-<p><i>Local Chess Analysis Engine powered by Stockfish with real-time evaluation.</i></p>
+<h3>👻 GhostSNI</h3>
+<p><i>DPI Bypass Packet Manipulation Tool for Windows with System Tray support.</i></p>
 <br>
-<img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square&logo=flask" />
-<img src="https://img.shields.io/badge/Stockfish-Engine-green?style=flat-square" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/WinDivert-Driver-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 <br><br>
-<a href="https://github.com/latryee/chessvision">
+<a href="https://github.com/latryee/GhostSNI">
 <img src="https://img.shields.io/badge/View_Project-Click_Here-blueviolet?style=for-the-badge&logo=github" />
 </a>
 </td>
