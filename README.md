@@ -40,7 +40,6 @@ Whenever I hit a problem, my first instinct is "how do I solve this with zero de
 | Project | Description | Stack |
 |---|---|---|
 | 🗄️ **[CloakDB](https://github.com/latryee/CloakDB)** | Zero-dependency SQL dump anonymizer that preserves relational integrity for local dev environments. | `Go` `SQL-AST` `CLI` |
-| 🛡️ **[FuseGuard](https://github.com/latryee/FuseGuard)** | State-machine driven circuit breaker and adaptive retry SDK for distributed microservices. | `TypeScript` `Distributed Systems` |
 | 🛡️ **[AegisBreaker](https://github.com/latryee/aegis-breaker)** | High-throughput, zero-dependency sliding-window circuit breaker engine for TS/JS runtimes, with native Prometheus/OpenMetrics support. | `TypeScript` `Resilience` |
 | 🐳 **[dockerkill](https://github.com/latryee/dockerkill)** | The smart, safe alternative to `docker system prune -a` — a TUI/CLI that protects base images and database volumes from careless cleanup. | `Python` `TUI` `DevOps` |
 | 🔐 **[envguard](https://github.com/latryee/envguard)** | Zero-config Git secret leak detector, semantic type validator, and `.env.example` synchronizer. | `TypeScript` `Security` `CLI` |
