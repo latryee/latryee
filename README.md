@@ -51,7 +51,14 @@ Whenever I hit a problem, my first instinct is "how do I solve this with zero de
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=latryee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Latrye's GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latryee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=latryee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://img.shields.io/github/stars/latryee?affiliations=OWNER&style=for-the-badge&color=38bdf8&label=Total%20Stars" alt="Total stars" /> </p>
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Latrye&show_icons=true&theme=dark&v=1" alt="GitHub Stats" />
+
+<!-- Top Langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&layout=compact&theme=dark&v=1" alt="Top Languages" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Latrye&theme=dark&v=1" alt="GitHub Streak" />
 ---
 
 ### 🌐 Connect
