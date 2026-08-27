@@ -2,14 +2,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
   <h1>Hi there, I'm Latrye!</h1>
   
-  <h3>Computer Engineering Student | Developer | Creator</h3>
+  <h3>Software & Systems Engineer focused on distributed systems, network internals, and developer tooling.</h3>
   
   <p>Based in <b>Turkey 🇹🇷</b></p>
   
-# Latrye
-
-Software & Systems Engineer focused on distributed systems, network internals, and developer tooling.
-
 ---
 
 ### 🛠 Tech Stack
