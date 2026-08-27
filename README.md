@@ -51,7 +51,7 @@ Whenever I hit a problem, my first instinct is "how do I solve this with zero de
 
 ### 📊 GitHub Stats
 
-https://githubcard.com/latryee.svg?d=-4HU6gYrjE5E
+![GitHubCard](https://githubcard.com/latryee.svg?d=-4HU6gYrjE5E)
 
 ### 🌐 Connect
 
