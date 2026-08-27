@@ -51,15 +51,14 @@ Whenever I hit a problem, my first instinct is "how do I solve this with zero de
 
 ### 📊 GitHub Stats
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Latrye&show_icons=true&theme=dark&v=1" alt="GitHub Stats" />
+<!-- GitHub Readme Stats Alternatifi (Glowfox) -->
+<img src="https://stats.glowfox.dev/api?username=Latrye&theme=dark&show_icons=true" alt="GitHub Stats" />
 
-<!-- Top Langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latrye&layout=compact&theme=dark&v=1" alt="Top Languages" />
+<!-- Top Languages Alternatifi -->
+<img src="https://stats.glowfox.dev/api/top-langs/?username=Latrye&layout=compact&theme=dark" alt="Top Languages" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Latrye&theme=dark&v=1" alt="GitHub Streak" />
----
+<!-- GitHub Profile Summary Cards (Çökme yapmayan stabil alternatif) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Latrye&theme=2077" alt="Profile Summary" />
 
 ### 🌐 Connect
 
