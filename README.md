@@ -40,11 +40,12 @@ Whenever I hit a problem, my first instinct is "how do I solve this with zero de
 | Project | Description | Stack |
 |---|---|---|
 | 🗄️ **[CloakDB](https://github.com/latryee/CloakDB)** | Zero-dependency SQL dump anonymizer that preserves relational integrity for local dev environments. | `Go` `SQL-AST` `CLI` |
+| 🔐 **[envguard](https://github.com/latryee/envguard)** | Zero-config Git secret leak detector, semantic type validator, and `.env.example` synchronizer. | `TypeScript` `Security` `CLI` |
+| 🧠 **[MemSentry](https://github.com/latryee/MemSentry)** | Low-overhead, cross-platform memory leak detector and heap profiling engine for modern C++ apps. | `C++20` `Performance` |
 | 🛡️ **[AegisBreaker](https://github.com/latryee/aegis-breaker)** | High-throughput, zero-dependency sliding-window circuit breaker engine for TS/JS runtimes, with native Prometheus/OpenMetrics support. | `TypeScript` `Resilience` |
 | 🐳 **[dockerkill](https://github.com/latryee/dockerkill)** | The smart, safe alternative to `docker system prune -a` — a TUI/CLI that protects base images and database volumes from careless cleanup. | `Python` `TUI` `DevOps` |
-| 🔐 **[envguard](https://github.com/latryee/envguard)** | Zero-config Git secret leak detector, semantic type validator, and `.env.example` synchronizer. | `TypeScript` `Security` `CLI` |
 | ⚡ **[promptdiff](https://github.com/latryee/promptdiff)** | Production-grade LLM prompt & output regression tester CLI, built for CI/CD pipelines. | `Python` `LLM Tooling` |
-| 🧠 **[MemSentry](https://github.com/latryee/MemSentry)** | Low-overhead, cross-platform memory leak detector and heap profiling engine for modern C++ apps. | `C++20` `Performance` |
+
 
 ---
 
