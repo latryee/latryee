@@ -6,6 +6,8 @@
 
 <p align="center">
   📍 Based in Turkey &nbsp;•&nbsp; 🧠 Systems programming enthusiast &nbsp;•&nbsp; 🛠️ I love building zero-dependency tools
+
+  # https://latrye.netlify.app/
 </p>
 
 <p align="center">
